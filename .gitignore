@@ -1,0 +1,26 @@
+# API keys 和敏感信息
+.env
+*.key
+config_local.py
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 原始数据 - 太大不上传，只本地保存
+data/raw/
+
+# 编辑器
+.vscode/
+.idea/
