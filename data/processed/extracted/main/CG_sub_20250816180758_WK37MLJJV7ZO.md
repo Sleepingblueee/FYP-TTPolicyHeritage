@@ -1,0 +1,16 @@
+Community Principles 
+
+## Community Principles
+
+ Released August 14, 2025 Effective September 13, 2025 TikTok has eight core principles that guide how we develop our rules and how we make complex enforcement decisions. They’re all about keeping you safe, respecting human rights, and supporting a creative and welcoming community. We developed these principles with the foundational goal of preventing harm and enabling expression. At times, we have to make difficult tradeoffs between competing goals. When that happens, we approach the decision thoughtfully and rely on trusted guidance, including: 
+- Internationally recognized globalhuman rightsstandards 
+- Feedback from our community andAdvisory Councils 
+- Input from experts in online safety, public health, and related fields Here are the eight principles: 
+- Prevent Harm:Keeping TikTok safe and fun is our top priority. Harm can look different—it might be physical, emotional, or even financial. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech. 
+- Support Free Expression:TikTok thrives on creativity. We honor this principle by providing the opportunity to share freely on our platform, while also proactively addressing behavior that can inhibit the speech of others. However, free expression isn't an absolute right. It's always considered in proportion to the potential harm, and can result in your content being removed or not recommended in the FYF. 
+- Encourage Kindness and Respect:We aim to foster a space where people treat each other with empathy and dignity. Our approach is designed to help prevent content that demeans or dehumanizes others, making TikTok a safer and more welcoming place for everyone. 
+- Respect Local Cultures:People use TikTok in over 150 countries. We work with local experts to make sure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines while upholding human rights standards. 
+- Champion Inclusion:We celebrate the diverse cultures and experiences that make up our TikTok community. We also recognize that some communities have historically faced barriers to participation and expression, and we’re committed to reducing disproportionate harms. 
+- Protect Privacy: We are committed to protecting the privacy of our community and anyone shown or discussed on the platform. We strive to ensure that content doesn't expose anyone’s personal information or invade their intimate privacy. 
+- Be Transparent and Consistent: We want everyone to know what our rules and standards are, and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently, and to share our enforcement efforts at ourTransparency Center. 
+- Act Fairly:Evaluating millions of pieces of content each day is a complex effort, but we’re committed to being impartial, clear, and providing opportunities to appeal. In rare and exceptional situations—such as crises or moments of social unrest—we may adjust our usual enforcement or rules to protect our community and address emerging harms, while remaining guided by our principles.
