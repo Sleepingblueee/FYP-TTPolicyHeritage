@@ -1,4 +1,4 @@
-\# FYP: TikTok L 文化遗产治理研究
+\# FYP: TikTok 文化遗产治理研究
 
 
 
