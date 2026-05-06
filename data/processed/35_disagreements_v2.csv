@@ -1,0 +1,253 @@
+﻿sample_id,source,code,human,gemini,gemini_reason,section_text
+S001,pilot,power,1,0,,"All creators must follow our creator code of conduct in addition to our Community Guidelines , Terms of Service , and any policies relevant to our monetization products, such as TikTok Shop, Creator Rewards Program, and TikTok LIVE. Learn more about the creator code of conduct in our Creator Academy"
+S001,pilot,safety,0,1,"The section establishes the obligation for creators to follow rules like the Community Guidelines and a code of conduct, which are frameworks for safety.","All creators must follow our creator code of conduct in addition to our Community Guidelines , Terms of Service , and any policies relevant to our monetization products, such as TikTok Shop, Creator Rewards Program, and TikTok LIVE. Learn more about the creator code of conduct in our Creator Academy"
+S002,pilot,community,1,0,,"Creator Academy Home Knowledge base Courses Creator Center Community Guidelines Creator Code of Conduct Creator Code of Conduct 0 views Last updated: Apr 17, 2024 TikTok offers a number of programs, features, events and campaigns that support, promote and reward creators for their content and contri"
+S004,pilot,power,1,0,,"This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech. - Enable free expression:The creativity unloc"
+S004,pilot,engagement,1,0,,"This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech. - Enable free expression:The creativity unloc"
+S005,pilot,power,1,0,,"NOT ALLOWED 
+- Misinformation that poses a risk to public safety or may induce panic about a crisis event or emergency, including using historical footage of a previous attack as if it were current, or incorrectly claiming a basic necessity (such as food or water) is no longer available in a particu"
+S005,pilot,community,1,0,,"NOT ALLOWED 
+- Misinformation that poses a risk to public safety or may induce panic about a crisis event or emergency, including using historical footage of a previous attack as if it were current, or incorrectly claiming a basic necessity (such as food or water) is no longer available in a particu"
+S005,pilot,engagement,1,0,,"NOT ALLOWED 
+- Misinformation that poses a risk to public safety or may induce panic about a crisis event or emergency, including using historical footage of a previous attack as if it were current, or incorrectly claiming a basic necessity (such as food or water) is no longer available in a particu"
+S008,pilot,power,1,0,,"Certain types of content may be fine if seen occasionally, but problematic if viewed in clusters (such as videos that involve dieting, extreme fitness, sadness, or sexual suggestiveness). This type of content may be eligible for the FYF but, to protect our community, we will interrupt repetitive con"
+S008,pilot,community,1,0,,"Certain types of content may be fine if seen occasionally, but problematic if viewed in clusters (such as videos that involve dieting, extreme fitness, sadness, or sexual suggestiveness). This type of content may be eligible for the FYF but, to protect our community, we will interrupt repetitive con"
+S008,pilot,engagement,0,1,"The section discusses content eligibility for the For You Feed (FYF), which is a core mechanism for platform participation.","Certain types of content may be fine if seen occasionally, but problematic if viewed in clusters (such as videos that involve dieting, extreme fitness, sadness, or sexual suggestiveness). This type of content may be eligible for the FYF but, to protect our community, we will interrupt repetitive con"
+S008,pilot,improvement,0,1,"The section describes the platform's approach to 'diversifying recommendations,' which is an enhancement of its features.","Certain types of content may be fine if seen occasionally, but problematic if viewed in clusters (such as videos that involve dieting, extreme fitness, sadness, or sexual suggestiveness). This type of content may be eligible for the FYF but, to protect our community, we will interrupt repetitive con"
+S009,pilot,safety,0,1,"The section prohibits account behaviors that spam, mislead, or impersonate to prevent harm to the community.","**We do not allow account behaviors that may spam or mislead our community.** This includes conducting covert influence operations, and operating spam or impersonation accounts. Parody/fan-based accounts are allowed, as long as they are disclosed in the account name (note that this is different than"
+S009,pilot,choice,0,1,The text explicitly states that users 'can set up multiple accounts' as an option for creative expression.,"**We do not allow account behaviors that may spam or mislead our community.** This includes conducting covert influence operations, and operating spam or impersonation accounts. Parody/fan-based accounts are allowed, as long as they are disclosed in the account name (note that this is different than"
+S009,pilot,engagement,1,0,,"**We do not allow account behaviors that may spam or mislead our community.** This includes conducting covert influence operations, and operating spam or impersonation accounts. Parody/fan-based accounts are allowed, as long as they are disclosed in the account name (note that this is different than"
+S009,pilot,ip_protection,1,0,,"**We do not allow account behaviors that may spam or mislead our community.** This includes conducting covert influence operations, and operating spam or impersonation accounts. Parody/fan-based accounts are allowed, as long as they are disclosed in the account name (note that this is different than"
+S010,pilot,safety,0,1,"The section outlines rules for disclosures on branded content, which serves to protect users from deceptive commercial practices.","**Branded content** is content that promotes goods or services where you receive something of value from a third party, such as a brand, in exchange for your post. This includes content that is required to be disclosed by your local laws or regulations. **Disclosures** are clear statements that expl"
+S011,pilot,engagement,1,0,,"We will also ban an account if we become aware that the account holder is a violent or hateful actor or has been convicted of a sexual crime or other serious offense against a young person. We may consider off-platform activity related to violence, hate, and child sexual exploitation and abuse to he"
+S012,pilot,choice,0,1,"The section describes a user-selectable option, the 'branded content toggle'.","Relationships include receiving financial compensation from, having a relative who works for, and being an employee of that third party. **Something of value** may refer to cash payments, free products, store credit, discounts, and special access to products, services, or events. **REQUIRED disclosu"
+S013,pilot,power,1,0,,"NOT ALLOWED 
+- Content that violates someone else's copyrights, trademarks, or other IP rights FYF INELIGIBLE 
+- Reused or unoriginal content posted without creative edits, such as clips that show someone else’s watermark or logo 
+- Low-quality or minimally edited content, such as short clips made f"
+S013,pilot,safety,0,1,The section prohibits deceptive behaviors and the trade of services that manipulate the platform to preserve a trustworthy space.,"NOT ALLOWED 
+- Content that violates someone else's copyrights, trademarks, or other IP rights FYF INELIGIBLE 
+- Reused or unoriginal content posted without creative edits, such as clips that show someone else’s watermark or logo 
+- Low-quality or minimally edited content, such as short clips made f"
+S013,pilot,community,1,0,,"NOT ALLOWED 
+- Content that violates someone else's copyrights, trademarks, or other IP rights FYF INELIGIBLE 
+- Reused or unoriginal content posted without creative edits, such as clips that show someone else’s watermark or logo 
+- Low-quality or minimally edited content, such as short clips made f"
+S014,pilot,engagement,1,0,,"We welcome people coming together to find connections, participate in shared experiences, and feel part of a broader community. We work to make sure this occurs in a supportive space that does not negatively impact people’s physical or psychological health. Suicide and Self-Harm
+
+ We want TikTok to "
+S015,pilot,power,1,0,,Our mission is simple: we want to inspire creativity and bring joy. We have Community Guidelines to help keep TikTok a safe and positive experience. These rules apply to everyone and everything on our platform.
+S015,pilot,engagement,1,0,,Our mission is simple: we want to inspire creativity and bring joy. We have Community Guidelines to help keep TikTok a safe and positive experience. These rules apply to everyone and everything on our platform.
+S016,pilot,community,1,0,,"When warranted, we will report threats to relevant legal authorities. To effectively protect our community, we may consider information available on other platforms and offline to identify violent and extremist individuals and organizations on our platform. If we find such individuals or organizatio"
+S019,pilot,care,1,0,,"Creating a positive community on TikTok requires a multifaceted approach that involves policies, settings and controls, technology, moderation, and more, but we believe this step towards more accessible user education is just as valuable. With “You’re in Control,” we hope you’ll feel inspired to use"
+S020,pilot,ip_protection,0,1,"The section defines the services and documentation as 'Commercial Items' and 'Commercial Computer Software,' establishing their legal status as proprietary digital assets.","Government Restricted Rights.** ?The Services and related documentation are ""Commercial Items"", as that term is defined at 48 C.F.R. §2.101, consisting of ""Commercial Computer Software"" and ""Commercial Computer Software Documentation"", as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R."
+S021,pilot,power,0,1,"The section explicitly asserts that disputes will be resolved by 'binding arbitration,' which is a mechanism of decision-making authority.","Arbitration Agreement. After the informal dispute resolution process any remaining dispute, controversy, or claim (collectively, “Claim”) relating in any way to your use of TikTok’s services and/or products, including the Services, or relating in any way to the communications between you and TikTok "
+S022,pilot,engagement,0,1,The section describes the rules governing a key participation outcome by prohibiting users from monetizing or obtaining consideration from User Content.,"You further acknowledge that, except as specifically permitted by us in these Terms or in another agreement you enter into with us, you (i) have no right to receive any income or other consideration from any User Content (defined below) or your use of any musical works, sound recordings or audiovisu"
+S022,pilot,accountability,1,0,,"You further acknowledge that, except as specifically permitted by us in these Terms or in another agreement you enter into with us, you (i) have no right to receive any income or other consideration from any User Content (defined below) or your use of any musical works, sound recordings or audiovisu"
+S023,pilot,improvement,0,1,"The section describes the 'upcoming' opening of a new Transparency and Accountability Center, indicating an expansion of services.","Additionally, visitors will learn how our application's algorithm operates. Due to constraints as a result of the coronavirus pandemic, the physical opening of our Transparency and Accountability Center has been delayed. We look forward to being able to welcome guests in the near future in Los Angel"
+S026,pilot,safety,0,1,The section prohibits unauthorized transfers and outlines penalties to protect the platform's economic system from misuse.,"- Accrued Coins do not constitute property and are not transferable: (a) upon death; (b) as part of a domestic relations matter; or (c) otherwise by operation of law. - Any Coins assigned, sold, or otherwise transferred without the express written consent of our Platform are void. Any user of the Se"
+S026,pilot,engagement,1,0,,"- Accrued Coins do not constitute property and are not transferable: (a) upon death; (b) as part of a domestic relations matter; or (c) otherwise by operation of law. - Any Coins assigned, sold, or otherwise transferred without the express written consent of our Platform are void. Any user of the Se"
+S026,pilot,ip_protection,0,1,"The section explicitly defines the ownership status of a digital asset, stating that 'Coins do not constitute property'.","- Accrued Coins do not constitute property and are not transferable: (a) upon death; (b) as part of a domestic relations matter; or (c) otherwise by operation of law. - Any Coins assigned, sold, or otherwise transferred without the express written consent of our Platform are void. Any user of the Se"
+S027,pilot,engagement,1,0,,"- Accrued Diamonds do not constitute property and are not transferable: (a) upon death; (b) as part of a domestic relations matter; or (c) otherwise by operation of law. - Any Diamonds assigned, sold, or otherwise transferred without the Platform’s express written consent are void. Any user of the S"
+S027,pilot,ip_protection,0,1,"The section explicitly defines the ownership status of a digital asset, stating that 'Diamonds do not constitute property'.","- Accrued Diamonds do not constitute property and are not transferable: (a) upon death; (b) as part of a domestic relations matter; or (c) otherwise by operation of law. - Any Diamonds assigned, sold, or otherwise transferred without the Platform’s express written consent are void. Any user of the S"
+S028,pilot,privacy,1,0,,It is your responsibility to ensure that you provide your PayPal (or other payment channel) account information correctly. You are responsible for any losses caused by incorrect PayPal (or other payment channel) account information provided by you. Payment will not be sent to a PayPal account with a
+S028,pilot,safety,0,1,The section aims to prevent financial harm by outlining user responsibility for providing correct payment information to avoid losses.,It is your responsibility to ensure that you provide your PayPal (or other payment channel) account information correctly. You are responsible for any losses caused by incorrect PayPal (or other payment channel) account information provided by you. Payment will not be sent to a PayPal account with a
+S028,pilot,engagement,1,0,,It is your responsibility to ensure that you provide your PayPal (or other payment channel) account information correctly. You are responsible for any losses caused by incorrect PayPal (or other payment channel) account information provided by you. Payment will not be sent to a PayPal account with a
+H001,heritage,privacy,1,0,,"You may not: 
+- access or use the Services if you are not fully able and legally competent to agree to these Terms or are authorized to use the Services by your parent or legal guardian; 
+- make unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any der"
+H001,heritage,B2_religious_sensitivity,1,0,,"You may not: 
+- access or use the Services if you are not fully able and legally competent to agree to these Terms or are authorized to use the Services by your parent or legal guardian; 
+- make unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any der"
+H002,heritage,power,1,0,,"We also suspend or ban accounts that have multiple hate speech violations. Attacks on protected groups
+
+ We define hate speech as content that does or intends to attack, threaten, incite violence against, or dehumanize an individual or a group of individuals on the basis of protected attributes. We "
+H002,heritage,B2_religious_sensitivity,1,0,,"We also suspend or ban accounts that have multiple hate speech violations. Attacks on protected groups
+
+ We define hate speech as content that does or intends to attack, threaten, incite violence against, or dehumanize an individual or a group of individuals on the basis of protected attributes. We "
+H003,heritage,power,1,0,,"Terrorist organizations Terrorists and terrorist organizations are non-state actors that threaten violence, use violence, and/or commit serious crimes (such as crimes against humanity) against civilian populations in pursuit of political, religious, ethnic, or ideological objectives. Organized hate "
+H003,heritage,B2_religious_sensitivity,1,0,,"Terrorist organizations Terrorists and terrorist organizations are non-state actors that threaten violence, use violence, and/or commit serious crimes (such as crimes against humanity) against civilian populations in pursuit of political, religious, ethnic, or ideological objectives. Organized hate "
+H004,heritage,power,1,0,,"Our differences should be respected, rather than a cause for division. **We do not allow any hateful behavior, hate speech, or promotion of hateful ideologies.** This includes content that attacks a person or group because of protected attributes, including: 
+- Caste 
+- Ethnicity 
+- National Origin "
+H004,heritage,B2_religious_sensitivity,1,0,,"Our differences should be respected, rather than a cause for division. **We do not allow any hateful behavior, hate speech, or promotion of hateful ideologies.** This includes content that attacks a person or group because of protected attributes, including: 
+- Caste 
+- Ethnicity 
+- National Origin "
+H004,heritage,B3_indigenous_minority,1,0,,"Our differences should be respected, rather than a cause for division. **We do not allow any hateful behavior, hate speech, or promotion of hateful ideologies.** This includes content that attacks a person or group because of protected attributes, including: 
+- Caste 
+- Ethnicity 
+- National Origin "
+H005,heritage,power,1,0,,"**Do not post, upload, stream, or share:** 
+- Statements of intent to inflict physical injuries on an individual or a group 
+- Statements or imagery that encourage others to commit or that advocate for physical violence 
+- Conditional or aspirational statements that encourage other people to commit "
+H005,heritage,B2_religious_sensitivity,1,0,,"**Do not post, upload, stream, or share:** 
+- Statements of intent to inflict physical injuries on an individual or a group 
+- Statements or imagery that encourage others to commit or that advocate for physical violence 
+- Conditional or aspirational statements that encourage other people to commit "
+H006,heritage,power,1,0,,"**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk. NOT ALLOWED 
+- Showing, describing, promoting, or offering or requesting coaching for disordered eating or danger"
+H006,heritage,engagement,0,1,"The section specifies that certain content is 'FYF INELIGIBLE,' which is a rule governing participation in the platform's recommendation system.","**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk. NOT ALLOWED 
+- Showing, describing, promoting, or offering or requesting coaching for disordered eating or danger"
+H007,heritage,power,0,1,The section asserts the platform's authority to expand the list of protected attributes by stating it 'may consider other protected attributes'.,"**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+-"
+H007,heritage,safety,0,1,The section defines a list of personal characteristics as 'Protected attributes' as a basis for protecting users from being 'attacked because of them'.,"**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+-"
+H007,heritage,improvement,0,1,"The section describes an evolving set of protections, noting the platform 'may consider other protected attributes' based on new information.","**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+-"
+H007,heritage,accountability,0,1,"The section grounds its policy in external standards, stating the attributes are 'informed by the Universal Declaration of Human Rights and international conventions'.","**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+-"
+H007,heritage,B2_religious_sensitivity,1,0,,"**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+-"
+H007,heritage,B3_indigenous_minority,1,0,,"**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+-"
+H008,heritage,power,1,0,,"**We do not allowpaid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political advertising policy includes both traditional paid advertisements and creators receiving compensation to support or oppose a candidate for "
+H008,heritage,engagement,0,1,The section describes a mechanism of participation by stating that certain content may be ineligible for the For You Feed (FYF).,"**We do not allowpaid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political advertising policy includes both traditional paid advertisements and creators receiving compensation to support or oppose a candidate for "
+H008,heritage,B4_traditional_craftsmanship,1,0,,"**We do not allowpaid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political advertising policy includes both traditional paid advertisements and creators receiving compensation to support or oppose a candidate for "
+H009,heritage,power,1,0,,"NOT ALLOWED 
+- Misinformation that poses a risk to public safety or may induce panic about a crisis event or emergency, including using historical footage of a previous attack as if it were current, or incorrectly claiming a basic necessity (such as food or water) is no longer available in a particu"
+H009,heritage,engagement,0,1,"The section specifies rules for participation, such as what content is ineligible for the For You feed and prohibitions on political advertising and fundraising.","NOT ALLOWED 
+- Misinformation that poses a risk to public safety or may induce panic about a crisis event or emergency, including using historical footage of a previous attack as if it were current, or incorrectly claiming a basic necessity (such as food or water) is no longer available in a particu"
+H009,heritage,B4_traditional_craftsmanship,1,0,,"NOT ALLOWED 
+- Misinformation that poses a risk to public safety or may induce panic about a crisis event or emergency, including using historical footage of a previous attack as if it were current, or incorrectly claiming a basic necessity (such as food or water) is no longer available in a particu"
+H010,heritage,power,1,0,,"**Sexually Explicit Language** : Graphic descriptions of sexual acts, fantasies, or body parts, including kinks or fetishes. **Sex Product:** Any object or device designed to be used for sexual pleasure, like a sex toy. NOT ALLOWED 
+- Showing: 
+- Penetrative sex, non-penetrative sex, or oral sex—inc"
+H010,heritage,care,0,1,"The section directs users to learn more about CSAM resources, which constitutes support for a specific type of harm.","**Sexually Explicit Language** : Graphic descriptions of sexual acts, fantasies, or body parts, including kinks or fetishes. **Sex Product:** Any object or device designed to be used for sexual pleasure, like a sex toy. NOT ALLOWED 
+- Showing: 
+- Penetrative sex, non-penetrative sex, or oral sex—inc"
+H010,heritage,B4_traditional_craftsmanship,1,0,,"**Sexually Explicit Language** : Graphic descriptions of sexual acts, fantasies, or body parts, including kinks or fetishes. **Sex Product:** Any object or device designed to be used for sexual pleasure, like a sex toy. NOT ALLOWED 
+- Showing: 
+- Penetrative sex, non-penetrative sex, or oral sex—inc"
+H012,heritage,power,1,0,,"Violent and graphic content: Human
+
+ **Do not post:** 
+- Content that is gratuitously shocking, sadistic, or excessively graphic, including but not limited to: 
+- Depictions of violent or accidental deaths involving real people 
+- Depictions of dismembered, mutilated, charred, or burned human remain"
+H013,heritage,power,1,0,,"**We do not allow paid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political ads policy includes both traditional paid ads and creators receiving compensation to support or oppose a candidate for office. We want to"
+H013,heritage,safety,0,1,The section explicitly prohibits content such as paid political promotion and misinformation about civic processes to prevent harm to public order.,"**We do not allow paid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political ads policy includes both traditional paid ads and creators receiving compensation to support or oppose a candidate for office. We want to"
+H013,heritage,B4_traditional_craftsmanship,1,0,,"**We do not allow paid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political ads policy includes both traditional paid ads and creators receiving compensation to support or oppose a candidate for office. We want to"
+H014,heritage,power,1,0,,"For young people, it also includes wearing minimal clothing, such as only underwear. **Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh"
+H014,heritage,engagement,0,1,"The section specifies rules for For You Feed (FYF) eligibility, which is a core mechanism of platform participation.","For young people, it also includes wearing minimal clothing, such as only underwear. **Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh"
+H014,heritage,care,0,1,"The text directs users to learn more about CSAM, which is a resource related to a specific and severe form of harm.","For young people, it also includes wearing minimal clothing, such as only underwear. **Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh"
+H015,heritage,power,1,0,,"We also do not want to amplify content that may not be suitable for a wide audience. Content is restricted (18 years and older) and is ineligible for the FYF if it shows semi-nudity of an adult. We allow regional exceptions for body exposure in limited situations, such as cultural practices."
+H015,heritage,engagement,0,1,"The section states that certain content is ineligible for the FYF, which is a core participation and content distribution mechanism.","We also do not want to amplify content that may not be suitable for a wide audience. Content is restricted (18 years and older) and is ineligible for the FYF if it shows semi-nudity of an adult. We allow regional exceptions for body exposure in limited situations, such as cultural practices."
+H016,heritage,power,1,0,,"**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or i"
+H016,heritage,engagement,0,1,"The section specifies that certain content is 'FYF INELIGIBLE,' which is a rule governing participation in the platform's recommendation feed.","**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or i"
+H016,heritage,B3_indigenous_minority,1,0,,"**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or i"
+H016,heritage,B4_traditional_craftsmanship,0,1,The section provides a specific allowance for showing weapons used in 'ceremonial settings' and 'cultural practices'.,"**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or i"
+H017,heritage,power,1,0,,"**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or i"
+H017,heritage,B3_indigenous_minority,1,0,,"**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or i"
+H017,heritage,B4_traditional_craftsmanship,0,1,The section provides a rule for content depicting the use of weapons in 'ceremonial settings' and 'cultural practices'.,"**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or i"
+H018,heritage,power,1,0,,"We allow regional exceptions for body exposure in limited situations, such as common cultural practices. **More information** **Nudity** is showing intimate body parts that prevailing cultural norms indicate should be fully covered. This currently includes bare genitals and buttocks of anyone, as we"
+H018,heritage,safety,0,1,"The section defines nudity and sets rules for body exposure, which is a content prohibition to preserve user well-being.","We allow regional exceptions for body exposure in limited situations, such as common cultural practices. **More information** **Nudity** is showing intimate body parts that prevailing cultural norms indicate should be fully covered. This currently includes bare genitals and buttocks of anyone, as we"
+H018,heritage,B3_indigenous_minority,1,0,,"We allow regional exceptions for body exposure in limited situations, such as common cultural practices. **More information** **Nudity** is showing intimate body parts that prevailing cultural norms indicate should be fully covered. This currently includes bare genitals and buttocks of anyone, as we"
+H019,heritage,power,1,0,,"**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts. **Significant body exposure** means being clothed but having partially uncovered intimate body parts or only wearing intimate clothin"
+H019,heritage,engagement,0,1,"The section specifies that certain content is 'FYF INELIGIBLE,' which is a rule governing participation in the platform's core recommendation system.","**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts. **Significant body exposure** means being clothed but having partially uncovered intimate body parts or only wearing intimate clothin"
+H019,heritage,B4_traditional_craftsmanship,1,0,,"**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts. **Significant body exposure** means being clothed but having partially uncovered intimate body parts or only wearing intimate clothin"
+H020,heritage,safety,0,1,The section defines nudity as a category of prohibited content to preserve user well-being.,"More information **Nudity** means being unclothed and showing bare intimate body parts that prevailing cultural practices indicate should be fully covered. This includes bare breasts of women and girls, but not of men and boys (including those who are transgender or intersex), or people who are non-"
+H020,heritage,B3_indigenous_minority,1,0,,"More information **Nudity** means being unclothed and showing bare intimate body parts that prevailing cultural practices indicate should be fully covered. This includes bare breasts of women and girls, but not of men and boys (including those who are transgender or intersex), or people who are non-"
+H021,heritage,power,1,0,,"Content is ineligible for the FYF if it shows moderate body exposure of a young person, or significant body exposure of an adult. We allow regional exceptions for body exposure in limited situations, such as common cultural practices. **More information** **Nudity** is showing intimate body parts th"
+H021,heritage,B3_indigenous_minority,1,0,,"Content is ineligible for the FYF if it shows moderate body exposure of a young person, or significant body exposure of an adult. We allow regional exceptions for body exposure in limited situations, such as common cultural practices. **More information** **Nudity** is showing intimate body parts th"
+H022,heritage,power,1,0,,"**Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh. **NOT allowed** 
+- Nudity of adults, including photography and digitally created im"
+H022,heritage,engagement,0,1,"The section describes what content is 'Allowed' or 'FYF ineligible,' which are mechanisms of platform participation and visibility.","**Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh. **NOT allowed** 
+- Nudity of adults, including photography and digitally created im"
+H022,heritage,B4_traditional_craftsmanship,1,0,,"**Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh. **NOT allowed** 
+- Nudity of adults, including photography and digitally created im"
+H023,heritage,privacy,1,0,,"We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups. - Protect individual privacy: We are committed to protecting and respecting the priva"
+H024,heritage,power,1,0,,"**NOT allowed** 
+- Nudity of adults, including photography and digitally created images such as manga and anime 
+- Nudity of young people, including visual fine art, objects, photography, and digitally created images such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Significant "
+H024,heritage,engagement,0,1,"The section affirmatively describes allowed forms of participation, such as welcoming 'performances and dances where people can creatively express themselves'.","**NOT allowed** 
+- Nudity of adults, including photography and digitally created images such as manga and anime 
+- Nudity of young people, including visual fine art, objects, photography, and digitally created images such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Significant "
+H024,heritage,B3_indigenous_minority,1,0,,"**NOT allowed** 
+- Nudity of adults, including photography and digitally created images such as manga and anime 
+- Nudity of young people, including visual fine art, objects, photography, and digitally created images such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Significant "
+H024,heritage,B4_traditional_craftsmanship,1,0,,"**NOT allowed** 
+- Nudity of adults, including photography and digitally created images such as manga and anime 
+- Nudity of young people, including visual fine art, objects, photography, and digitally created images such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Significant "
+H026,heritage,privacy,1,0,,"We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the human right ofequal protection, equity, and mitigating harms that dispro"
+H029,heritage,power,1,0,,"Organized hate groups We use the term “organized hate” to refer to those individuals and organizations who attack people based on protected attributes, such as race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender, gender identity, or immigration status. We consider atta"
+H029,heritage,B2_religious_sensitivity,1,0,,"Organized hate groups We use the term “organized hate” to refer to those individuals and organizations who attack people based on protected attributes, such as race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender, gender identity, or immigration status. We consider atta"
+H030,heritage,power,1,0,,"**We do not allow any hateful behavior, hate speech, or promotion of hateful ideologies.** This includes content that attacks a person or group because of protected attributes, including: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+- Immigration Status 
+- Gender 
+- Gender "
+H030,heritage,B2_religious_sensitivity,1,0,,"**We do not allow any hateful behavior, hate speech, or promotion of hateful ideologies.** This includes content that attacks a person or group because of protected attributes, including: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+- Immigration Status 
+- Gender 
+- Gender "
+H030,heritage,B3_indigenous_minority,1,0,,"**We do not allow any hateful behavior, hate speech, or promotion of hateful ideologies.** This includes content that attacks a person or group because of protected attributes, including: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+- Immigration Status 
+- Gender 
+- Gender "

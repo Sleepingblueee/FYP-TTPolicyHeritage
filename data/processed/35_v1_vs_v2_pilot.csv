@@ -1,0 +1,17 @@
+﻿code,v1_alpha,v2_alpha,v1_f1,v2_f1,delta_alpha,verdict
+power,0.466,0.496,0.765,0.667,0.02999999999999997,stable
+privacy,0.655,0.655,0.667,0.667,0.0,stable
+safety,0.801,0.59,0.909,0.833,-0.21100000000000008,REGRESSION
+choice,0.473,0.473,0.5,0.5,0.0,stable
+community,0.705,0.517,0.8,0.615,-0.18799999999999994,worsened
+engagement,0.558,0.278,0.85,0.645,-0.28,worsened
+ip_protection,0.523,0.433,0.571,0.5,-0.09000000000000002,stable
+improvement,0.636,0.636,0.667,0.667,0.0,stable
+care,0.356,0.0,0.4,0.0,-0.356,worsened
+accountability,0.841,0.841,0.857,0.857,0.0,STILL OK
+B1_authenticity_claims,,,,,,no data
+B2_religious_sensitivity,,,,,,no data
+B3_indigenous_minority,,,,,,no data
+B4_traditional_craftsmanship,,,,,,no data
+B5_commercialization_culture,,,,,,no data
+B6_ai_cultural_content,,,,,,no data

@@ -1,0 +1,48 @@
+﻿sample_id,code,human,gemini,gemini_reason,section_text
+H001,privacy,1,0,,"You may not: 
+- access or use the Services if you are not fully able and legally competent to agree to these Terms or are authorized to use the Services by your parent or legal guardian; 
+- make unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any der"
+H001,B3_indigenous_minority,0,1,"The section lists 'race' as a protected attribute in its rules against discrimination, which is a governance context.","You may not: 
+- access or use the Services if you are not fully able and legally competent to agree to these Terms or are authorized to use the Services by your parent or legal guardian; 
+- make unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any der"
+H002,B3_indigenous_minority,0,1,The section contains the keyword 'Ethnicity' in a list of protected attributes within a content rule section.,"We also suspend or ban accounts that have multiple hate speech violations. Attacks on protected groups
+
+ We define hate speech as content that does or intends to attack, threaten, incite violence against, or dehumanize an individual or a group of individuals on the basis of protected attributes. We "
+H003,B3_indigenous_minority,0,1,The section contains the keywords 'ethnic' and 'ethnicity' in the context of defining content rules for terrorism and organized hate.,"Terrorist organizations Terrorists and terrorist organizations are non-state actors that threaten violence, use violence, and/or commit serious crimes (such as crimes against humanity) against civilian populations in pursuit of political, religious, ethnic, or ideological objectives. Organized hate "
+H005,B3_indigenous_minority,0,1,The keyword 'ethnic' appears in a section defining categories of prohibited organizations for content governance.,"**Do not post, upload, stream, or share:** 
+- Statements of intent to inflict physical injuries on an individual or a group 
+- Statements or imagery that encourage others to commit or that advocate for physical violence 
+- Conditional or aspirational statements that encourage other people to commit "
+H006,engagement,0,1,"The section specifies content that is 'FYF INELIGIBLE,' which is a rule governing a mechanism of user participation.","**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk. NOT ALLOWED 
+- Showing, describing, promoting, or offering or requesting coaching for disordered eating or danger"
+H007,power,0,1,The section uses platform-authority language such as 'we also provide some protections' and 'we may consider'.,"**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+-"
+H007,safety,0,1,The section defines attributes for the purpose of providing 'protections' against 'severe psychological harm'.,"**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+-"
+H008,engagement,0,1,The section discusses a mechanism for user participation by mentioning content may be 'ineligible for the FYF'.,"**We do not allowpaid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political advertising policy includes both traditional paid advertisements and creators receiving compensation to support or oppose a candidate for "
+H009,community,0,1,"The section describes the platform as 'a place that brings people together,' invoking a valued collective.","NOT ALLOWED 
+- Misinformation that poses a risk to public safety or may induce panic about a crisis event or emergency, including using historical footage of a previous attack as if it were current, or incorrectly claiming a basic necessity (such as food or water) is no longer available in a particu"
+H013,safety,0,1,"The section prohibits content (political ads, misinformation) to prevent harm to civic and electoral processes, and co-occurs with power.","**We do not allow paid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political ads policy includes both traditional paid ads and creators receiving compensation to support or oppose a candidate for office. We want to"
+H014,engagement,0,1,"The section mentions 'FYF ineligible' and 'performances,' which are mechanisms of user participation and visibility.","For young people, it also includes wearing minimal clothing, such as only underwear. **Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh"
+H018,safety,0,1,The section describes content prohibitions related to nudity and body exposure to prevent harm.,"We allow regional exceptions for body exposure in limited situations, such as common cultural practices. **More information** **Nudity** is showing intimate body parts that prevailing cultural norms indicate should be fully covered. This currently includes bare genitals and buttocks of anyone, as we"
+H019,engagement,0,1,The section describes a mechanism by which users participate by mentioning 'FYF INELIGIBLE' status for certain content.,"**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts. **Significant body exposure** means being clothed but having partially uncovered intimate body parts or only wearing intimate clothin"
+H020,safety,0,1,"The section defines ""Nudity,"" a category of content governed by harm-prevention rules.","More information **Nudity** means being unclothed and showing bare intimate body parts that prevailing cultural practices indicate should be fully covered. This includes bare breasts of women and girls, but not of men and boys (including those who are transgender or intersex), or people who are non-"
+H022,engagement,0,1,The section describes a mechanism of user participation by specifying content that is 'FYF ineligible'.,"**Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh. **NOT allowed** 
+- Nudity of adults, including photography and digitally created im"
+H024,engagement,0,1,The section describes mechanisms for user participation ('performances and dances') and governance of that participation ('FYF ineligible').,"**NOT allowed** 
+- Nudity of adults, including photography and digitally created images such as manga and anime 
+- Nudity of young people, including visual fine art, objects, photography, and digitally created images such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Significant "
+H029,B3_indigenous_minority,0,1,The keyword 'ethnicity' is listed as a protected attribute in a section about content governance.,"Organized hate groups We use the term “organized hate” to refer to those individuals and organizations who attack people based on protected attributes, such as race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender, gender identity, or immigration status. We consider atta"

@@ -1,0 +1,17 @@
+﻿code,n,human_pos,gemini_pos,both_1,both_0,human_only,gemini_only,agreement_rate,krippendorff_alpha,f1,alpha_note
+power,30,13,21,13,9,0,8,0.733,0.466,0.765,
+privacy,30,2,1,1,28,1,0,0.967,0.655,0.667,
+safety,30,15,18,15,12,0,3,0.9,0.801,0.909,
+choice,30,1,3,1,27,0,2,0.933,0.473,0.5,
+community,30,9,11,8,18,1,3,0.867,0.705,0.8,
+engagement,30,19,21,17,7,2,4,0.8,0.558,0.85,
+ip_protection,30,3,4,2,25,1,2,0.9,0.523,0.571,
+improvement,30,2,4,2,26,0,2,0.933,0.636,0.667,
+care,30,1,4,1,26,0,3,0.9,0.356,0.4,
+accountability,30,4,3,3,26,1,0,0.967,0.841,0.857,
+B1_authenticity_claims,30,0,0,0,30,0,0,1.0,,,ALL_ZERO
+B2_religious_sensitivity,30,0,0,0,30,0,0,1.0,,,ALL_ZERO
+B3_indigenous_minority,30,0,0,0,30,0,0,1.0,,,ALL_ZERO
+B4_traditional_craftsmanship,30,0,0,0,30,0,0,1.0,,,ALL_ZERO
+B5_commercialization_culture,30,0,0,0,30,0,0,1.0,,,ALL_ZERO
+B6_ai_cultural_content,30,0,0,0,30,0,0,1.0,,,ALL_ZERO

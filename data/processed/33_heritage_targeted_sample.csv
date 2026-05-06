@@ -1,0 +1,330 @@
+sample_id,category,year,filename,section_position,matched_categories,matched_keywords,section_text,power,privacy,safety,choice,community,engagement,ip_protection,improvement,care,accountability,B1_authenticity_claims,B2_religious_sensitivity,B3_indigenous_minority,B4_traditional_craftsmanship,B5_commercialization_culture,B6_ai_cultural_content,human_notes
+H001,TOS,2025,TOS_20250529235948_OCI5PNECNBJA.html,35-37,religious,"religio, religi","You may not: 
+- access or use the Services if you are not fully able and legally competent to agree to these Terms or are authorized to use the Services by your parent or legal guardian; 
+- make unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any derivative works of the Services or any content included therein, including any files, tables or documentation (or any portion thereof) or determine or attempt to determine any source code, algorithms, methods or techniques embodied by the Services or any derivative works thereof 
+- distribute, license, transfer, or sell, in whole or in part, any of the Services or any derivative works thereof 
+- market, rent or lease the Services for a fee or charge, or use the Services to advertise or perform any commercial solicitation; 
+- use the Services, without our express written consent, for any commercial or unauthorized purpose, including communicating or facilitating any commercial advertisement or solicitation or spamming; 
+- interfere with or attempt to interfere with the proper working of the Services, disrupt our website or any networks connected to the Services, or bypass any measures we may use to prevent or restrict access to the Services; 
+- incorporate the Services or any portion thereof into any other program or product. In such case, we reserve the right to refuse service, terminate accounts or limit access to the Services in our sole discretion; 
+- use automated scripts to collect information from or otherwise interact with the Services; 
+- impersonate any person or entity, or falsely state or otherwise misrepresent you or your affiliation with any person or entity, including giving the impression that any content you upload, post, transmit, distribute or otherwise make available emanates from the Services; 
+- intimidate or harass another, or promote sexually explicit material, violence or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age; 
+- use or attempt to use another’s account, service or system without authorisation from TikTok, or create a false identity on the Services; 
+- use the Services in a manner that may create a conflict of interest or undermine the purposes of the Services, such as trading reviews with other users or writing or soliciting fake reviews; 
+- use the Services to upload, transmit, distribute, store or otherwise make available in any way: files that contain viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful; 
+- any unsolicited or unauthorised advertising, solicitations, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other prohibited form of solicitation; 
+- any private information of any third party, including addresses, phone numbers, email addresses, number and feature in the personal identity document (e.g., National Insurance numbers, passport numbers) or credit card numbers; 
+- any material which does or may infringe any copyright, trademark or other intellectual property or privacy rights of any other person; 
+- any material which is defamatory of any person, obscene, offensive, pornographic, hateful or inflammatory; 
+- any material that would constitute, encourage or provide instructions for a criminal offence, dangerous activities or self-harm; 
+- any material that is deliberately designed to provoke or antagonise people, especially trolling and bullying, or is intended to harass, harm, hurt, scare, distress, embarrass or upset people; 
+- any material that contains a threat of any kind, including threats of physical violence; 
+- any material that is racist or discriminatory, including discrimination on the basis of someone’s race, religion, age, gender, disability or sexuality; 
+- any answers, responses, comments, opinions, analysis or recommendations that you are not properly licensed or otherwise qualified to provide; or 
+- material that, in the sole judgment of TikTok, is objectionable or which restricts or inhibits any other person from using the Services, or which may expose TikTok, the Services or its users to any harm or liability of any type. In addition to the above, your access to and use of the Services must, at all times, be compliant with our  Community Guidelines .",1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,"Long TOS prohibitions list. power=1 ('you may not' + 'reserve right to terminate accounts'). privacy=1 (third-party private info ban: addresses, phone, ID numbers). safety=1 (harassment/violence/self-harm/threats prohibitions). ip_protection=1 (copyright/trademark/IP infringement ban). B2=1 (religion listed twice as protected attribute against discrimination)."
+H002,CG,2020,CG_20200425132858_4LWGGX34VEO3.html,52-54,religious,"Religio, Religi","We also suspend or ban accounts that have multiple hate speech violations. Attacks on protected groups
+
+ We define hate speech as content that does or intends to attack, threaten, incite violence against, or dehumanize an individual or a group of individuals on the basis of protected attributes. We also do not allow content that verbally or physically threatens violence or depicts harm to an individual or a group based on any of the following protected attributes: 
+- Race 
+- Ethnicity 
+- National origin 
+- Religion 
+- Caste 
+- Sexual orientation 
+- Sex 
+- Gender 
+- Gender identity 
+- Serious disease or disability 
+- Immigration status **Do not post** : 
+- Content that dehumanizes or incites violence or hatred against individuals or groups, based on the attributes listed above, including but not limited to: 
+- claiming that they are physically or morally inferior 
+- calling for or justifying violence against them 
+- claiming that they are criminals 
+- referring negatively to them as animals, inanimate objects, or other non-human entities 
+- promoting or justifying exclusion, segregation, or discrimination against them 
+
+Slurs
+
+ Slurs are defined as derogatory terms that are intended to disparage an ethnicity, race, or any other protected attributes listed above.",1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Hate speech policy. power=1 (suspend/ban accounts + 'do not post'). safety=1 (hate speech harm to protected groups). B2=1 (Religion explicit in protected attributes list).
+H003,CG,2021,CG_20210201180333_OO5I6SBNMA5T.html,31-33,religious,"religio, religi","Terrorist organizations Terrorists and terrorist organizations are non-state actors that threaten violence, use violence, and/or commit serious crimes (such as crimes against humanity) against civilian populations in pursuit of political, religious, ethnic, or ideological objectives. Organized hate Organized hate refers to those individuals and organizations who attack people based on protected characteristics, such as race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender, gender identity, or immigration status. We consider attacks to include actions that incite violence or hatred, dehumanize individuals or groups, or embrace a hateful ideology.",1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Terrorist orgs + organized hate definitions. power=1 (defines banned actors). safety=1 (violence/hate harm). B2=1 ('religious...objectives' as terrorist motivation + religion as protected attribute).
+H004,CG,sub,CG_sub_20231223202058_6ZQU4L4R7UJ6.html,8-10,religious,"Religio, Religi","Our differences should be respected, rather than a cause for division. **We do not allow any hateful behavior, hate speech, or promotion of hateful ideologies.** This includes content that attacks a person or group because of protected attributes, including: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+- Immigration Status 
+- Gender 
+- Gender Identity 
+- Sex 
+- Sexual Orientation 
+- Disability 
+- Serious Disease **More information** **Hateful ideologies** are systems of beliefs that exclude, oppress, or otherwise discriminate against individuals based on their protected attributes, such as racial supremacy, misogyny, anti-LGBTQIA+, and antisemitism. **Protected attributes** are personal characteristics that we are born with, are immutable, or cannot change without severe psychological harm, and which may result in disproportionate stigmatization.",1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Hateful behavior prohibition. power=1 ('we do not allow'). safety=1 (hate speech harm). B2=1 (Religion in protected attributes). B3=1 (Tribe in protected attributes).
+H005,CG,2021,CG_20210804003900_IDFFTAJ7PY3D.html,29-31,religious,"religio, religi","**Do not post, upload, stream, or share:** 
+- Statements of intent to inflict physical injuries on an individual or a group 
+- Statements or imagery that encourage others to commit or that advocate for physical violence 
+- Conditional or aspirational statements that encourage other people to commit violence 
+- Calls to bring weapons to a location with the intent to intimidate or threaten an individual or group with violence 
+- Instructions on how to make or use weapons with an intent to incite violence 
+
+Dangerous individuals and organizations
+
+ We do not allow individuals or organizations on our platform who promote or are engaged in violence. We remove such individuals and organizations, including mass murderers, serial killers and rapists, hate groups, criminal organizations, terrorist organizations, and other non-state armed groups that target civilians. Terrorist organizations Terrorists and terrorist organizations are non-state actors that threaten violence, use violence, and/or commit serious crimes (such as crimes against humanity) against civilian populations in pursuit of political, religious, ethnic, or ideological objectives.",1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Violence + dangerous orgs policy. power=1 ('do not post' + 'we remove'). safety=1 (violence/weapons/terrorism). B2=1 ('religious...objectives' as terrorist motive).
+H006,CG,sub,CG_sub_20250401031248_GNUPJEY2D2TE.html,14-16,religious,"Religio, Religi","**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk. NOT ALLOWED 
+- Showing, describing, promoting, or offering or requesting coaching for disordered eating or dangerous weight loss behaviors, including: 
+- Extreme low-calorie diets 
+- Bingeing and intentional vomiting 
+- Misusing medication or supplements for weight loss 
+- Exercising through serious injuries or illness 
+- Showing or promoting unhealthy body measurement and ""body checking"" trends, such as comparing body part size to household objects 
+- Facilitating the trade or marketing of weight loss or muscle gain products RESTRICTED (18 years and older) 
+- Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including: 
+- Restrictive low-calorie diets, such as extended intermittent fasting 
+- Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use 
+- Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week 
+- Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation 
+- Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors 
+- Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery FYF INELIGIBLE 
+- Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including: 
+- Restrictive low-calorie diets, such as extended intermittent fasting 
+- Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use 
+- Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week 
+- Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation 
+- Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors 
+- Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery ALLOWED 
+- Condemning disordered eating, dangerous weight loss behaviors, or potentially harmful weight management (as long as it does not show or describe a diet or behavior) 
+- Showing or describing: 
+- Competitive eating contests, such as hot dog and pie-eating contests 
+- Fitness routines and nutrition that arenotprimarily focused on extreme weight loss, such as preparing for competitive sports, marathon training, or body building competitions 
+- Medically necessary surgery, such as including before-and-after images of the repair of a cleft lip, breast reconstruction after a mastectomy, or gender affirmation surgery 
+- Medically necessary health interventions under the guidance of a medical or health professional, such as restrictive diets before surgery 
+- Religious diet behavior and fasting 
+- Physical disabilities and differently-abled bodies 
+
+Dangerous Activity and Challenges
+
+ We welcome opportunities to participate in fun and creative trends. Most activities or challenges are suitable for everyone and bring people together, but some pose a risk of significant injury.",1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Weight management policy with religious exception. power=1 (detailed NOT/RESTRICTED/ALLOWED rules). safety=1 (eating disorder/health harm). B2=1 ('Religious diet behavior and fasting' allowed).
+H007,CG,sub,CG_sub_20240807171804_TPKATTCKJ4UI.html,15-17,religious,"Religio, Religi","**Protected attributes** mean personal characteristics that you are either born with, are immutable, or it would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+- Immigration Status 
+- Gender 
+- Gender Identity 
+- Sex 
+- Sexual Orientation 
+- Disability 
+- Serious Disease In addition, we also provide some protections related to age, and may consider other protected attributes when we have additional context, such as specific regional information provided to us by a local non-governmental organization (NGO). The attributes listed above are informed by the Universal Declaration of Human Rights and international conventions.",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,"Definitional excerpt of protected attributes (basis for hate policy, but no rules/enforcement language in this passage). B2=1 (Religion). B3=1 (Tribe). No active power/safety claims here, so coded 0."
+H008,CG,sub,CG_sub_20250213164514_6BCA5YDPEVFJ.html,17-19,traditional,tradition,"**We do not allowpaid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political advertising policy includes both traditional paid advertisements and creators receiving compensation to support or oppose a candidate for office. We want to enable the informed exchange of civic ideas in a way that fosters productive dialogue. **We do not allow misinformation or content about civic and electoral processes that may result in voter interference, disrupt the peaceful transfer of power, or lead to off-platform violence.** Content may be ineligible for the FYF if it contains misinformation that can hinder the ability of a voter to make an informed decision.",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Political ads + electoral integrity. power=1 ('we do not allow'). safety=1 ('off-platform violence' + voter interference). B4=1 ('traditional paid advertisements').
+H009,CG,sub,CG_sub_20241126024330_YOOB24RJNDQJ.html,15-17,traditional,tradition,"NOT ALLOWED 
+- Misinformation that poses a risk to public safety or may induce panic about a crisis event or emergency, including using historical footage of a previous attack as if it were current, or incorrectly claiming a basic necessity (such as food or water) is no longer available in a particular location 
+- Health misinformation, such as misleading statements about vaccines, inaccurate medical advice that discourages people from getting appropriate medical care for a life-threatening disease, or other misinformation which may cause negative health effects on an individual's life 
+- Climate change misinformation that undermines well-established scientific consensus, such as denying the existence of climate change or the factors that contribute to it 
+- Conspiracy theories that name and attack individual people 
+- Conspiracy theories that are violent or hateful, such as making a violent call to action, having links to previous violence, denying well-documented violent events, or causing prejudice towards a group with a protected attribute FYF INELIGIBLE 
+- Conspiracy theories that are unfounded and claim that certain events or situations are carried out by covert or powerful groups, such as ""the government"" or a ""secret society"" 
+- Moderate harm health misinformation, such as an unproven recommendation for how to treat a minor illness 
+- Repurposed media, such as showing a crowd at a music concert and suggesting it is a political protest 
+- Misrepresenting authoritative sources, such as selectively referencing certain scientific data to support a conclusion that is counter to the findings of the study 
+- Unverified claims related to an emergency or unfolding event 
+- Potential high-harm misinformation while it is undergoing a fact-checking review ALLOWED 
+- Statements of personal opinion (as long as it does not include harmful misinformation) 
+- People sharing their own stories or experiences about medical treatment or procedures, or health care systems (as long as it does not contain harmful misinformation, or encourage people to ignore professional medical advice or public health authority guidance) 
+- Discussions about climate change, such as the benefits or disadvantages of particular policies or technologies, or personal views related to specific weather events (as long as it does not undermine scientific consensus) 
+
+Civic and Election Integrity
+
+ Elections are important events and are often the subject of intense discussion and analysis. We try to balance enabling these discussions, while also being a place that brings people together and does not cause division. **We do not allowpaid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political advertising policy includes both traditional paid advertisements and creators receiving compensation to support or oppose a candidate for office.",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Misinformation + civic integrity. power=1 (NOT ALLOWED/FYF rules). safety=1 (public safety/health misinfo risks). B4=1 ('traditional paid advertisements').
+H010,CG,sub,CG_sub_20251030153322_AYTUL7233HSN.html,20-22,traditional,tradition,"**Sexually Explicit Language** : Graphic descriptions of sexual acts, fantasies, or body parts, including kinks or fetishes. **Sex Product:** Any object or device designed to be used for sexual pleasure, like a sex toy. NOT ALLOWED 
+- Showing: 
+- Penetrative sex, non-penetrative sex, or oral sex—including digital or illustrated images, like manga 
+- Physical sexual arousal or stimulation 
+- Fetish or kink behavior, such as BDSM or sexual behavior involving a focus on specific body parts 
+- Nudity of adults or young people—including digital or illustrated images, like manga 
+- Significant body exposure of young people, such as wearing only underwear or lingerie 
+- Facilitating access to sexual services, such as offering or asking for sexual acts, sexual chats or imagery, or pornography 
+- Showing young people engaging in intimate kissing, sexually suggestive acts, or sexualized framing 
+- Sexually explicit language involving or directed at young people 
+- In some regions, adults using sexually explicit language or showing or promoting sex products **Learn more about CSAM inYouth Sexual and Physical Abuse** FYF INELIGIBLE & AGE-RESTRICTED 
+- Showing: 
+- Significant adult body exposure, such as wearing only nipple covers or underwear that doesn’t cover most of the buttocks 
+- In some regions, moderate adult body exposure—such as the side breast or partial exposure of the buttocks that would be typically covered based on cultural norms 
+- Adults engaging in intimate kissing, sexually suggestive acts, or sexualized framing 
+- In some regions, adults using sexually explicit language or showing or promoting sex products FYF INELIGIBLE 
+- In some regions, documentary, educational, medical, fictional, or artistic content that shows non-explicit adult sexualized behaviors or certain types of body exposure 
+- Showing young people in clothing that reveals cleavage or outlines intimate body parts ALLOWED 
+- Body exposure in everyday social contexts, such as wearing a swimsuit at a pool 
+- Nudity of infants during childbirth 
+- Implied nudity, partial buttocks, or bare chest or breasts of infants and toddlers under 4 
+- Bare breasts of men and boys, including transgender and intersex people, and non-binary people 
+- Kissing in non-intimate situations, such as a kiss on the cheek or quick kiss on the lips 
+- Documentary, educational, medical, fictional, or artistic content that includes non-explicit adult sexualized behaviors or certain types of body exposure 
+- Certain types of nudity and body exposure that are part of cultural behaviors and settings, like breastfeeding and traditional dress festivals (e.g.",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,Sexual content policy with cultural/traditional exceptions. power=1 (NOT ALLOWED/FYF/AGE-RESTRICTED). safety=1 (CSAM/sexual exploitation). B3=1 ('cultural behaviors and settings' + 'cultural norms'). B4=1 ('traditional dress festivals').
+H011,CG,2020,CG_20201203052808_W3CNJOBFHSCS.html,37-39,traditional,tradition,"When we identify a genuine risk of violence or threat to public safety, we ban the account and work with relevant legal authorities as necessary and when appropriate. Violent and graphic content: Human
+
+ **Do not post:** 
+- Content that is gratuitously shocking, sadistic, or excessively graphic, including but not limited to: 
+- Depictions of violent or accidental deaths involving real people 
+- Depictions of dismembered, mutilated, charred, or burned human remains 
+- Depictions of gore in which an open wound or injury is the core focus 
+- Depictions of severe physical violence 
+- Exceptions:Staged or professional fighting, traditional martial arts, or fighting in a fictional setting 
+
+Violent and graphic content: Animals
+
+ **Do not post:** 
+- Content that is gratuitously shocking, sadistic, or excessively graphic, including but not limited to: 
+- Depictions of the slaughter of real animals 
+- Depictions of dismembered, mutilated, charred, or burned animal remains 
+- Depictions of animal cruelty 
+
+Suicide, self-harm, and dangerous acts
+
+ We do not promote participation in activities that could lead to harm. We also do not permit users to encourage others to take part in dangerous activities.",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Violent/graphic content policy. power=1 ('do not post' + 'ban the account'). safety=1 (graphic violence/animal cruelty/self-harm risk). B4=1 ('traditional martial arts' as exception).
+H012,CG,2020,CG_20200531133905_QDGFL5OGBCRI.html,38-40,traditional,tradition,"Violent and graphic content: Human
+
+ **Do not post:** 
+- Content that is gratuitously shocking, sadistic, or excessively graphic, including but not limited to: 
+- Depictions of violent or accidental deaths involving real people 
+- Depictions of dismembered, mutilated, charred, or burned human remains 
+- Depictions of gore in which an open wound or injury is the core focus 
+- Depictions of severe physical violence 
+- Exceptions:Staged or professional fighting, traditional martial arts, or fighting in a fictional setting 
+
+Violent and graphic content: Animals
+
+ **Do not post:** 
+- Content that is gratuitously shocking, sadistic, or excessively graphic, including but not limited to: 
+- Depictions of the slaughter of real animals 
+- Depictions of dismembered, mutilated, charred, or burned animal remains 
+- Depictions of animal cruelty 
+
+Suicide, self-harm, and dangerous acts
+
+ We do not promote participation in activities that could lead to harm. We also do not permit users to encourage others to take part in dangerous activities. We do not allow content that promotes self-harm or suicide, but we do allow our users to share their experiences in order to raise awareness about these issues.",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Violent content + suicide/self-harm policy. power=1 ('do not post' + 'do not allow'). safety=1 (violence/self-harm/dangerous acts). B4=1 ('traditional martial arts' as exception).
+H013,CG,sub,CG_sub_20231012125457_6FUFNSB3JH3C.html,14-16,traditional,tradition,"**We do not allow paid political promotion, political advertising, or fundraising by politicians and political parties (for themselves or others).** Our political ads policy includes both traditional paid ads and creators receiving compensation to support or oppose a candidate for office. We want to enable the informed exchange of civic ideas in a way that fosters productive dialogue. **We do not allow misinformation about civic and electoral processes, regardless of intent.** This includes misinformation about how to vote, registering to vote, eligibility requirements of candidates, the processes to count ballots and certify elections, and the final outcome of an election.",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Political ads + electoral misinformation policy. power=1 ('we do not allow' twice). No explicit harm/violence language here so safety=0. B4=1 ('traditional paid ads').
+H014,CG,sub,CG_sub_20230706153032_JBUCTJKNE3BJ.html,26-28,indigenous|traditional,"indigenous, tradition","For young people, it also includes wearing minimal clothing, such as only underwear. **Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh. **NOT allowed** 
+- Nudity of adults, including photography and digitally created images such as manga and anime 
+- Nudity of young people, including visual fine art, objects, photography, and digitally created images such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Significant body exposure of young people **Age-restricted (18 years and older)** 
+- Significant body exposure of adults **FYF** **ineligible** 
+- Significant body exposure of adults 
+- Moderate body exposure of young people **Allowed** 
+- Non-sexualized content showing areolas or nipples of:infants or toddlersgirls or women in medical contexts, for educational purposes, or as a part of a culturally accepted practice, such as indigenous populations who do not traditionally wear top coveringswomen in culturally expected contexts, such as breastfeeding and chestfeeding, at political protests, or at large celebration festivals such as Carnival 
+- Areolas and nipples of men and boys (including those who are transgender or intersex), or people who are non-binary 
+- Body exposure that appears in culturally expected contexts, such as athletes wearing sports apparel and swimsuits at a beach or festival 
+
+Sexually Suggestive Content
+
+ We welcome performances and dances where people can creatively express themselves, celebrate their culture, or seek to entertain.",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,Body exposure policy with indigenous/cultural exceptions. power=1 (NOT allowed/Age-restricted/FYF rules). safety=1 (young people/CSAM protection). B3=1 ('indigenous populations' + 'culturally accepted/expected'). B4=1 ('traditionally wear top coverings').
+H015,CG,sub,CG_sub_20240805035417_UEX4UQ7GUTP7.html,16-18,cultural,cultural practice,"We also do not want to amplify content that may not be suitable for a wide audience. Content is restricted (18 years and older) and is ineligible for the FYF if it shows semi-nudity of an adult. We allow regional exceptions for body exposure in limited situations, such as cultural practices.",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"FYF restriction with cultural exception. power=1 (content restricted, FYF ineligible). safety=1 (audience suitability protection). B3=1 ('cultural practices' as regional exception — coded under B3 as nearest-fit since codebook has no general 'cultural' code)."
+H016,CG,sub,CG_sub_20250221021958_2QE7AL5F2WEF.html,25-27,cultural|religious,"religio, religi, ceremon, cultural practice","**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or imminent significant physical harm, or promoting dangerous activity 
+- Showing or promoting: 
+- Inappropriate use of dangerous tools, such as knives, axes, chainsaws, or welding torches 
+- Eating or drinking substances that are dangerous for humans to consume, such as rocks or detergent 
+- Dangerous driving behavior, such as exceeding the speed limit, running a red light, or distracted driving (including live streaming while driving) RESTRICTED (18 years and older) 
+- Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm 
+- Showing activity that is likely to be imitated and may lead to any physical harm FYF INELIGIBLE 
+- Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm ALLOWED 
+- Using weapons, such as spears and shields, in ceremonial settings, religious festivals, and cultural practices **TikTok** 
+
+Company
+
+ About TikTok Newsroom Contact Careers ByteDance 
+
+Programs
+
+ TikTok for Good TikTok for Developers Effect House Advertise on TikTok TikTok Browse TikTok Embeds TikTok Rewards Download TikTok Scaled LIVE rewards 
+
+Resources
+
+ Help Center Safety Center Privacy Center Creator Academy Community Guidelines Transparency Accessibility 
+
+Legal
+
+ Terms of Service Privacy Policy Intellectual Property Policy TikTok Law Enforcement Guidelines Cookies Policy Impressum © 2025 TikTok",1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Dangerous activity policy with ceremonial/religious/cultural exceptions. power=1 (NOT ALLOWED/RESTRICTED rules). safety=1 (physical harm). B2=1 ('religious festivals' + 'ceremonial settings'). B3=1 ('cultural practices').
+H017,CG,sub,CG_sub_20241002184350_5QQD2ORX566J.html,25-27,cultural|religious,"religio, religi, ceremon, cultural practice","**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body. NOT ALLOWED 
+- Showing dangerous activity that involves visible or imminent significant physical harm, or promoting dangerous activity 
+- Showing or promoting: 
+- Inappropriate use of dangerous tools, such as knives, axes, chainsaws, or welding torches 
+- Eating or drinking substances that are dangerous for humans to consume, such as rocks or detergent 
+- Dangerous driving behavior, such as exceeding the speed limit, running a red light, or distracted driving (including live streaming while driving) RESTRICTED (18 years and older) 
+- Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm 
+- Showing activity that is likely to be imitated and may lead to any physical harm FYF INELIGIBLE 
+- Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm ALLOWED 
+- Using weapons, such as spears and shields, in ceremonial settings, religious festivals, and cultural practices English Bahasa Indonesia Deutsch English Español Français (France) Italiano Polski Português Tiếng Việt Türkçe Русский 한국어 日本語 繁體中文 العربية اردو Bahasa Melayu Čeština Filipino Magyar Nederlands Română Svenska Ελληνικά Українська বাংলা ภาษาไทย မြန်မာဘာသာ ភាសាខ្មែរ Suomi eesti keel български език hrvatski jezik Latviešu valoda ພາສາລາວ dansk Español (América Latina) Oʻzbek lietuvių kalba slovenčina norsk bokmål Қазақша Shqip Gaeilge Íslenska Slovenščina עברית हिंदी Bahasa Indonesia Deutsch English Español Français (France) Italiano Polski Português Tiếng Việt Türkçe Русский 한국어 日本語 繁體中文 العربية اردو Bahasa Melayu Čeština Filipino Magyar Nederlands Română Svenska Ελληνικά Українська বাংলা ภาษาไทย မြန်မာဘာသာ ភាសាខ្មែរ Suomi eesti keel български език hrvatski jezik Latviešu valoda ພາສາລາວ dansk Español (América Latina) Oʻzbek lietuvių kalba slovenčina norsk bokmål Қазақша Shqip Gaeilge Íslenska Slovenščina עברית हिंदी © 2024 TikTok",1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Same content as H016 (different footer). power=1 (NOT ALLOWED rules). safety=1 (physical harm). B2=1 ('religious festivals' + 'ceremonial settings'). B3=1 ('cultural practices').
+H018,CG,sub,CG_sub_20230706152738_TU4VGP354SCO.html,19-21,cultural,cultural practice,"We allow regional exceptions for body exposure in limited situations, such as common cultural practices. **More information** **Nudity** is showing intimate body parts that prevailing cultural norms indicate should be fully covered. This currently includes bare genitals and buttocks of anyone, as well as nipples and areolas of women and girls.",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Body exposure regional exceptions + nudity definition. power=1 (regional rules on body exposure). No explicit harm/protection language in this passage so safety=0. B3=1 ('common cultural practices' + 'prevailing cultural norms').
+H019,CG,sub,CG_sub_20250401211312_XMCLKAHMIKU7.html,24-26,cultural|traditional,"tradition, Cultural practice","**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts. **Significant body exposure** means being clothed but having partially uncovered intimate body parts or only wearing intimate clothing, such as underwear. NOT ALLOWED 
+- Showing nudity of adults and young people, including photography and digitally created images, such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Showing semi-nudity or significant body exposure of young people, such as extremely cropped shirts, or only wearing underwear or lingerie RESTRICTED (18 years and older) 
+- Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks FYF INELIGIBLE 
+- Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks 
+- Showing youth in clothing that exposes substantial cleavage, or the clothed outline of certain intimate body parts (genitalia and nipples) 
+- Showing infants and toddlers (under the age of 4) with implied nudity or partially exposing their buttocks ALLOWED 
+- Showing full nudity of infants during childbirth 
+- Showing bare breasts of men and boys (including those who are transgender or intersex), infants and toddlers (under the age of 4), and people who are non-binary 
+- Showing full buttocks of anyone, and bare breasts of women (and of girls, when we have additional context), in the following non-sexualized settings: 
+- Cultural practice, such as breastfeeding or chestfeeding, populations who do not traditionally wear coverings, or during large traditional celebration festivals (such as Carnival) 
+- Documentary or educational contexts, such as political protests 
+- Scientific or medical contexts, such as breast reconstruction after a mastectomy 
+- Showing body exposure that appears in culturally expected contexts, such as someone wearing a swimsuit at a beach or festival, or an athlete wearing a sports bra 
+
+Sexually Suggestive Content
+
+ We welcome you to creatively express yourself, celebrate your culture, or seek to entertain.",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,Body exposure policy with cultural/traditional exceptions. power=1 (NOT ALLOWED/RESTRICTED). safety=1 (young people/CSAM). B3=1 ('Cultural practice' + 'culturally expected'). B4=1 ('traditionally wear coverings' + 'traditional celebration festivals').
+H020,CG,sub,CG_sub_20241226112638_PPXINJOBSOK6.html,19-21,cultural,cultural practice,"More information **Nudity** means being unclothed and showing bare intimate body parts that prevailing cultural practices indicate should be fully covered. This includes bare breasts of women and girls, but not of men and boys (including those who are transgender or intersex), or people who are non-binary. We recognize that some individuals do not describe their gender in binary terms, and acknowledge the complexity of applying this policy.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Nudity definition referencing cultural practices. Definitional 'More information' excerpt with no rules/enforcement language; power=0. B3=1 ('prevailing cultural practices').
+H021,CG,sub,CG_sub_20240218100501_N5LS5EFQSMGM.html,18-20,cultural,cultural practice,"Content is ineligible for the FYF if it shows moderate body exposure of a young person, or significant body exposure of an adult. We allow regional exceptions for body exposure in limited situations, such as common cultural practices. **More information** **Nudity** is showing intimate body parts that prevailing cultural norms indicate should be fully covered.",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,FYF body exposure restrictions with cultural exception. power=1 ('Content is ineligible for the FYF'). safety=1 ('moderate body exposure of a young person' — youth protection). B3=1 ('common cultural practices' + 'prevailing cultural norms').
+H022,CG,sub,CG_sub_20230422025733_RL2H5CZGNEKF.html,27-29,indigenous|traditional,"indigenous, tradition","**Moderate body exposure** includes showing the visible outline of covered genitalia, nipples through clothing, and exposed skin near an intimate body part, such as a part of a breast and the upper part of the thigh. **NOT allowed** 
+- Nudity of adults, including photography and digitally created images such as manga and anime 
+- Nudity of young people, including visual fine art, objects, photography, and digitally created images such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Significant body exposure of young people **Age-restricted (18 years and older)** 
+- Significant body exposure of adults **FYF** **ineligible** 
+- Significant body exposure of adults 
+- Moderate body exposure of young people **Allowed** 
+- Non-sexualized content showing areolas or nipples of:infants or toddlersgirls or women in medical contexts, for educational purposes, or as a part of a culturally accepted practice, such as indigenous populations who do not traditionally wear top coveringswomen in culturally expected contexts, such as breastfeeding and chestfeeding, at political protests, or at large celebration festivals such as Carnival 
+- Areolas and nipples of men and boys (including those who are transgender or intersex), or people who are non-binary 
+- Body exposure that appears in culturally expected contexts, such as athletes wearing sports apparel and swimsuits at a beach or festival 
+
+Sexually Suggestive Content
+
+ We welcome performances and dances where people can creatively express themselves, celebrate their culture, or seek to entertain. We are mindful that certain behaviors related to sexual arousal or suggestiveness may be offensive to some people and may put young people at risk of exploitation.",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,Body exposure policy (similar to H014). power=1 (NOT allowed/Age-restricted/FYF rules). safety=1 (young people protection + 'risk of exploitation'). B3=1 ('indigenous populations' + 'culturally expected'). B4=1 ('traditionally wear top coverings').
+H023,CG,sub,CG_sub_20240824065022_HVFIR2FNEZCE.html,21-23,indigenous,marginalized,"We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups. - Protect individual privacy: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.",0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,Equality + privacy values statement. privacy=1 ('Protect individual privacy' + privacy commitment). safety=1 ('mitigating harms'). community=1 ('our community'). B3=1 ('marginalized groups'). No 'must/violation' language so power=0.
+H024,CG,sub,CG_sub_20230523031217_NQY3J6URHJBL.html,28-30,indigenous|traditional,"indigenous, tradition","**NOT allowed** 
+- Nudity of adults, including photography and digitally created images such as manga and anime 
+- Nudity of young people, including visual fine art, objects, photography, and digitally created images such as manga and anime(learn more about CSAM inYouth Exploitation) 
+- Significant body exposure of young people **Age-restricted (18 years and older)** 
+- Significant body exposure of adults **FYF** **ineligible** 
+- Significant body exposure of adults 
+- Moderate body exposure of young people **Allowed** 
+- Non-sexualized content showing areolas or nipples of:infants or toddlersgirls or women in medical contexts, for educational purposes, or as a part of a culturally accepted practice, such as indigenous populations who do not traditionally wear top coveringswomen in culturally expected contexts, such as breastfeeding and chestfeeding, at political protests, or at large celebration festivals such as Carnival 
+- Areolas and nipples of men and boys (including those who are transgender or intersex), or people who are non-binary 
+- Body exposure that appears in culturally expected contexts, such as athletes wearing sports apparel and swimsuits at a beach or festival 
+
+Sexually Suggestive Content
+
+ We welcome performances and dances where people can creatively express themselves, celebrate their culture, or seek to entertain. We are mindful that certain behaviors related to sexual arousal or suggestiveness may be offensive to some people and may put young people at risk of exploitation. **We do not allow seductive performances or allusions to sexual activity by young people, or the use of sexually explicit narratives by anyone.** We do allow some artistic content with sexual references, such as song lyrics.",1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,Body exposure policy (near-duplicate of H014/H022). power=1 (NOT allowed/Age-restricted/FYF rules). safety=1 (CSAM + 'risk of exploitation'). B3=1 ('indigenous populations' + 'culturally expected'). B4=1 ('traditionally wear top coverings').
+H025,CG,sub,CG_sub_20240714035359_KN4PX5WSU2IS.html,20-22,indigenous,marginalized,"We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups. - Protect individual privacy: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform.",0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"Inclusion + privacy values (similar to H023). privacy=1 (privacy commitment). safety=1 ('mitigating harms'). community=1 ('value and celebrate different cultures, identities' + 'our community'). B3=1 ('marginalized groups')."
+H026,CG,sub,CG_sub_20240403002448_BZVLVXSJAP4J.html,22-24,indigenous,marginalized,"We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the human right ofequal protection, equity, and mitigating harms that disproportionately affect marginalized or underrepresented groups. - Protect individual privacy: The right toprivacyprovides people a sense of autonomy, comfort, and security.",0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"Equity + privacy values. privacy=1 ('right to privacy'). safety=1 ('mitigating harms'). community=1 ('celebrate different cultures, identities, appearances...'). B3=1 ('marginalized or underrepresented groups')."
+H027,CG,sub,CG_sub_20240824065022_HVFIR2FNEZCE.html,19-21,indigenous,marginalized,"- Champion inclusion:We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.",0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"Champion inclusion value statement. community=1 ('feel welcome' + 'celebrate different cultures, identities'). safety=1 ('mitigating harms'). B3=1 ('marginalized groups'). No rules/privacy specifics in this excerpt."
+H028,NEWS,2020,NEWS_20201229140107_DWAG5R6FF4PO.html,46-48,indigenous,marginalized,"**Building with empathy and inclusivity** Safety and inclusion go hand-in-hand, and we believe in maintaining an environment that celebrates everyone. We've evolved our hate speech policy to better account for scenarios where underrepresented groups may feel excluded or marginalized and to counter hateful ideologies. It's critical that we listen to the perspectives of our users, learn from them, and act.",0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,"Newsroom post on policy evolution. safety=1 ('Safety and inclusion go hand-in-hand'). community=1 ('empathy and inclusivity' + 'celebrates everyone'). improvement=1 ('We've evolved our hate speech policy' + 'listen, learn, and act'). B3=1 ('underrepresented groups' + 'marginalized')."
+H029,CG,2022,CG_20221022195932_VHID7Y5MESBJ.html,107-109,religious,"religio, religi","Organized hate groups We use the term “organized hate” to refer to those individuals and organizations who attack people based on protected attributes, such as race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender, gender identity, or immigration status. We consider attacks to include actions that incite violence or hatred, that aim to dehumanize individuals or groups, or that embrace a hateful ideology. Criminal organizations Criminal organizations are transnational, national, or local groups that have engaged in serious crimes, including violent crimes (e.g., homicide, rape, robbery, assault), trafficking (e.g., human, organ, drug, weapons), kidnapping, financial crimes (e.g., extortion, blackmail, fraud, money laundering), or cybercrime.",1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Organized hate + criminal orgs definitions. power=1 (defines banned actor categories). safety=1 (violence/hate/serious crimes). B2=1 (religion as protected attribute in hate-attack list).
+H030,CG,sub,CG_sub_20231110202514_FG3J4SQKXFTW.html,9-11,religious,"Religio, Religi","**We do not allow any hateful behavior, hate speech, or promotion of hateful ideologies.** This includes content that attacks a person or group because of protected attributes, including: 
+- Caste 
+- Ethnicity 
+- National Origin 
+- Race 
+- Religion 
+- Tribe 
+- Immigration Status 
+- Gender 
+- Gender Identity 
+- Sex 
+- Sexual Orientation 
+- Disability 
+- Serious Disease **More information** **Hateful ideologies** are systems of beliefs that exclude, oppress, or otherwise discriminate against individuals based on their protected attributes, such as racial supremacy, misogyny, anti-LGBTQIA+, and antisemitism. **Protected attributes** are personal characteristics that we are born with, are immutable, or cannot change without severe psychological harm, and which may result in disproportionate stigmatization. In addition, we also provide some protections related to age, and may consider other protected attributes when we have additional context, such as specific regional information provided to us by a local non-governmental organization (NGO).",1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Hateful behavior prohibition (similar to H004). power=1 ('we do not allow'). safety=1 (hate speech harm). B2=1 (Religion in protected attributes). B3=1 (Tribe in protected attributes).
