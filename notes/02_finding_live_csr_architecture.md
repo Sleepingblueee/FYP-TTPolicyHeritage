@@ -28,13 +28,3 @@ TikTok 主站 Community Guidelines (`tiktok.com/community-guidelines/en`) 采用
 
 这不只是一个数据缺陷，它是治理透明度差异的证据。SSR 主站政策天然便于第三方（研究者、记者、监管者）历史归档审计；CSR 直播政策则因架构选择丧失了被独立监督的可能。无论 TikTok 是否有意为之，这种架构选择构成了"直播治理黑箱化"的技术基础设施。
 
-
-
-\## 如何在论文中使用
-
-\- \*\*Limitations 章节\*\*：诚实交代 LIVE 类样本量受限于 CSR 架构。
-
-\- \*\*Discussion 章节\*\*：把这个观察延伸为一个理论论点——"治理透明度的不平等不仅来自政策文本本身的开放程度，也来自承载政策文本的技术架构"。
-
-\- \*\*可挂的文献\*\*：Bucher (2018) \*If...Then: Algorithmic Power and Politics\*；Plantin et al. (2018) on infrastructure studies；Gillespie (2018) on platform opacity。
-
